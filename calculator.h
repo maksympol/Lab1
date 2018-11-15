@@ -4,6 +4,7 @@
 class Calculator
 {
     public:
+<<<<<<< HEAD
         int Add (double, double);
         int Sub (double, double);
 };
